@@ -86,8 +86,9 @@ header .highlight,  header .current a{
 }
 
 header a:hover{
-    color:#F6B6B4;
+    color:orange;
     font-weight:bold;
+    text-decoration: underline;
 } 
 
 /*Sections*/ 
